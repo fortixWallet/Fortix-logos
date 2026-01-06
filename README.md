@@ -6,7 +6,7 @@ Official logo assets for FortiX Wallet.
 
 ```
 /chains     - Chain/network logos (136 logos)
-/native     - Native token logos by symbol (173 logos)
+/native     - Native token logos by symbol (204 logos)
 /tokens     - Token logos by chainId/address (15,346 logos)
 ```
 
@@ -92,9 +92,9 @@ https://raw.githubusercontent.com/fortixWallet/Fortix-logos/main/tokens/tron/TR7
 | Category | Count |
 |----------|-------|
 | Chain logos | 136 |
-| Native tokens | 173 |
+| Native tokens | 204 |
 | Token logos | 15,346 |
-| **Total** | **15,655** |
+| **Total** | **15,686** |
 
 ## Supported Native Tokens
 
